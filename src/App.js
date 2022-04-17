@@ -1,4 +1,7 @@
-import { Download, Features, SectionWrapper } from './components';
+// import { Download, Features, SectionWrapper } from './components';
+import { Download } from './components';
+import { Features } from './components';
+import { SectionWrapper } from './components';
 import assets from './assets';
 import styles from './styles/Global';
 
