@@ -1,6 +1,9 @@
 import { Download, Features, SectionWrapper } from './components';
 import assets from './assets';
 
+// Video: https://www.youtube.com/watch?v=_ivIUCSOZ78&t=5s
+// Code: https://github.com/adrianhajdin/nft-marketplace-showcase
+
 const App = () => {
   return (
     <>
